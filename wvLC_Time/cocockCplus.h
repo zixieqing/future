@@ -2,7 +2,7 @@
 #define cocockCplus_h
 
 // func begin
-#define isInCheck dkfjlasj1
+#define isInCheck ExtrapolateInProliferation
 
 // ignore begin
 #ifndef FOUNDATION_EXPORT
@@ -16,3 +16,4 @@
 FOUNDATION_EXPORT bool isInCheck(void);
 
 #endif /* cocockCplus_h */
+

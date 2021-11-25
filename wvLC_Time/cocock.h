@@ -3,10 +3,10 @@
 #define CocoCk_h
 
 // class begin
-#define cocock YyCheckerOutcomeTools
+#define cocock appinflict
 
 // func begin
-#define ifc shouldLaughterMessage
+#define ifc Progressifc
 
 @interface cocock : NSObject
 
@@ -15,6 +15,7 @@
 @end
 
 #endif
+
 
 
 
