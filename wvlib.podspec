@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'wvlib'
-  s.version          = '2021.11.24'
+  s.version          = '2021.11.25'
   s.summary          = 'A short description of wvlib.'
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
