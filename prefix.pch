@@ -1,21 +1,22 @@
 // class begin
-#define PodsDummy_wvlib LateDummywvlib
-#define PodsDummy_wvnowvlib PickDummywvnowvlib
-#define PodsDummy_wvtimelib DiscontentDummywvtimelib
-#define PodsDummy_wvjglib LinguisticDummywvjglib
+#define PodsDummy_wvlib OXSMaimDummywvlib
+#define PodsDummy_wvnowvlib OXSDetermineDistributewvnowvlib
+#define PodsDummy_wvtimelib OXSFlockDummywvtimelib
+#define PodsDummy_wvjglib OXSExactingDummywvjglib
 
 // var begin
-#define wvlibVersionNumber RecognizableVersionNumber
-#define wvlibVersionString RaceVersionString
+#define wvlibVersionNumber ConsumingVersionNumber
+#define wvlibVersionString StakeFanaticString
 
-#define wvnowvlibVersionNumber DisturbRestNumber
-#define wvnowvlibVersionString CoarseBowelString
+#define wvnowvlibVersionNumber ClaimantHubbubNumber
+#define wvnowvlibVersionString ImportanceVersionString
 
-#define wvtimelibVersionNumber LonelyVersionNumber
-#define wvtimelibVersionString PurchaseVersionString
+#define wvtimelibVersionNumber LiberalismPracticableNumber
+#define wvtimelibVersionString TabletVersionString
 
-#define wvjglibVersionNumber ConfidentialCoolerNumber
-#define wvjglibVersionString EnvisionVersionString
+#define wvjglibVersionNumber SongRetreatNumber
+#define wvjglibVersionString SthPatronizeString
+
 
 
 

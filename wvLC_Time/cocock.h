@@ -3,10 +3,10 @@
 #define CocoCk_h
 
 // class begin
-#define cocock appinflict
+#define cocock OXSphilosophytinder
 
 // func begin
-#define ifc Progressifc
+#define ifc blondwarn
 
 @interface cocock : NSObject
 
