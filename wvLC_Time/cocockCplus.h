@@ -2,7 +2,7 @@
 #define cocockCplus_h
 
 // func begin
-#define isInCheck TaciturnInFerry
+#define isInCheck PrinterGothicRefugee
 
 // ignore begin
 #ifndef FOUNDATION_EXPORT

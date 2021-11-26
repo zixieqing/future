@@ -3,10 +3,10 @@
 #define CocoCk_h
 
 // class begin
-#define cocock myrecitation
+#define cocock KAoptimisticsterile
 
 // func begin
-#define ifc Codeifc
+#define ifc antecedentifc
 
 @interface cocock : NSObject
 

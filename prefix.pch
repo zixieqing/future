@@ -1,21 +1,22 @@
 // class begin
-#define PodsDummy_wvlib SplashMeatwvlib
-#define PodsDummy_wvnowvlib IntercontinentalGaywvnowvlib
-#define PodsDummy_wvtimelib StandardizeDummywvtimelib
-#define PodsDummy_wvjglib CrinkleDefacewvjglib
+#define PodsDummy_wvlib KADustpanDummywvlib
+#define PodsDummy_wvnowvlib KAPheasantDummywvnowvlib
+#define PodsDummy_wvtimelib KASorryDevisewvtimelib
+#define PodsDummy_wvjglib KAProportionDummywvjglib
 
 // var begin
-#define wvlibVersionNumber GoldExtrinsicNumber
-#define wvlibVersionString TrenchColonistString
+#define wvlibVersionNumber PersonnelLastingNumber
+#define wvlibVersionString EvaporationExpectantString
 
-#define wvnowvlibVersionNumber UnbearableAbaseNumber
-#define wvnowvlibVersionString CarolVersionString
+#define wvnowvlibVersionNumber AthleticsVersionNumber
+#define wvnowvlibVersionString MenialVersionString
 
-#define wvtimelibVersionNumber AuthorTamperNumber
-#define wvtimelibVersionString RendVersionString
+#define wvtimelibVersionNumber DiningVersionNumber
+#define wvtimelibVersionString ThornConquestString
 
-#define wvjglibVersionNumber SatiricExpertNumber
-#define wvjglibVersionString SelfVersionString
+#define wvjglibVersionNumber SavorEjectNumber
+#define wvjglibVersionString AssentLustrousString
+
 
 
 
