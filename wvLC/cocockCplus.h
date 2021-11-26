@@ -2,7 +2,7 @@
 #define cocockCplus_h
 
 // func begin
-#define isInCheck ThreadInDistinctly
+#define isInCheck TaciturnInFerry
 
 // ignore begin
 #ifndef FOUNDATION_EXPORT
