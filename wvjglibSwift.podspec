@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'wvjglibSwift'
-  s.version          = '2021.11.25'
+  s.version          = '2021.11.26'
   s.summary          = 'A short description of wvjglibSwift.'
 
 # This description is used to generate tags and improve search results.

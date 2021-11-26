@@ -2,7 +2,7 @@
 #define cocockCplus_h
 
 // func begin
-#define isInCheck TryMisplaceInundate
+#define isInCheck ThreadInDistinctly
 
 // ignore begin
 #ifndef FOUNDATION_EXPORT
